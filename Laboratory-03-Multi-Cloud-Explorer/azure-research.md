@@ -36,9 +36,6 @@ Microsoft Entra ID provides identity and access management for users, applicatio
 
 Azure can be used for hosting business applications, migrating Windows Server workloads, managing databases, integrating Microsoft 365 environments, developing applications, and supporting enterprise data and AI workloads.
 
-## Screenshot Evidence
-
-![Azure Screenshot](AZURE RESEARCH.png)
 
 ## Sources
 
