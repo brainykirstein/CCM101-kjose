@@ -38,8 +38,6 @@ AWS can be used by enterprises for web and mobile applications, data storage and
 
 ## Screenshot Evidence
 
-Insert a screenshot of the official AWS homepage or AWS Management Console here.
-
 ![AWS Screenshot]([AWS HOMEPAGE.png](https://github.com/brainykirstein/CCM101-kjose/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/AWS%20HOMEPAGE.png))
 
 ## Sources
