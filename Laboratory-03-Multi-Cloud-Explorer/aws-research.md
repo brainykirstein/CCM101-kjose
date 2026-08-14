@@ -40,8 +40,7 @@ AWS can be used by enterprises for web and mobile applications, data storage and
 
 Insert a screenshot of the official AWS homepage or AWS Management Console here.
 
-![AWS Screenshot](<img width="1919" height="992" alt="AWS HOMEPAGE" src="https://github.com/user-attachments/assets/97a29b43-5cda-459b-98f0-681649226287" />
-)
+![AWS Screenshot](AWS HOMEPAGE.png)
 
 ## Sources
 - [AWS Official Website](https://aws.amazon.com/)
