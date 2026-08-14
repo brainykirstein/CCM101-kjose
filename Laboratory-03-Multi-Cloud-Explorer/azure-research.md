@@ -38,7 +38,7 @@ Azure can be used for hosting business applications, migrating Windows Server wo
 
 ## Screenshot Evidence
 
-![Azure Screenshot]([AZURE.png](https://github.com/brainykirstein/CCM101-kjose/commit/ec849717c194f420e1701fbc59c07008ce6bc1dd#diff-20d80285cf5d9a957d1da65a58fdb0cac50f21623503e452b0ce27778fedeb03))
+![Azure Screenshot]([[AZURE.png](https://github.com/brainykirstein/CCM101-kjose/commit/ec849717c194f420e1701fbc59c07008ce6bc1dd#diff-20d80285cf5d9a957d1da65a58fdb0cac50f21623503e452b0ce27778fedeb03)](https://github.com/brainykirstein/CCM101-kjose/blob/main/Laboratory-03-Multi-Cloud-Explorer/screenshots/AZURE%20RESEARCH.png))
 
 ## Sources
 
