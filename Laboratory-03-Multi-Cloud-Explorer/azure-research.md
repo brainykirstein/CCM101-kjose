@@ -38,8 +38,7 @@ Azure can be used for hosting business applications, migrating Windows Server wo
 
 ## Screenshot Evidence
 
-![Azure Screenshot](AZURE RESEARCH.png
-)
+![Azure Screenshot](AZURE RESEARCH.png)
 
 ## Sources
 
