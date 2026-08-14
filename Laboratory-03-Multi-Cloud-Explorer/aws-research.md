@@ -36,3 +36,14 @@ Amazon Virtual Private Cloud (VPC) allows users to create an isolated virtual ne
 
 AWS can be used by enterprises for web and mobile applications, data storage and backup, database hosting, business applications, analytics, and large-scale application infrastructure.
 
+## Screenshot Evidence
+
+Insert a screenshot of the official AWS homepage or AWS Management Console here.
+
+![AWS Screenshot](<img width="1919" height="992" alt="AWS HOMEPAGE" src="https://github.com/user-attachments/assets/97a29b43-5cda-459b-98f0-681649226287" />
+)
+
+## Sources
+- [AWS Official Website](https://aws.amazon.com/)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [AWS Overview Documentation](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/)
