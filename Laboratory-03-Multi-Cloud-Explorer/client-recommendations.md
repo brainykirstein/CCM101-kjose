@@ -69,3 +69,14 @@ I recommend AWS for the global e-commerce company because it needs worldwide ava
 | Client B — University | Microsoft Azure | Strong Microsoft ecosystem integration |
 | Client C — AI Research Company | GCP | Strong AI/ML, data, and Kubernetes capabilities |
 | Client D — Global E-Commerce | AWS | Global infrastructure and scalable application services |
+
+# Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a broad range of cloud services and scalable resources that can support a startup as it grows. |
+| Enterprise Organization | AWS | AWS offers a wide range of services for computing, storage, databases, networking, security, and enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | GCP | GCP provides strong AI and machine learning capabilities through services such as Vertex AI and scalable computing resources. |
+| Kubernetes Deployment | GCP | Google Kubernetes Engine (GKE) provides a managed Kubernetes service and is a strong choice for Kubernetes-based deployments. |
+| Global Web Application | AWS | AWS provides a large global infrastructure and services that support scalable and highly available web applications. |
