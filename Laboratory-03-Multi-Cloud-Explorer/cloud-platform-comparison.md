@@ -46,3 +46,13 @@ I would personally choose AWS because it offers a wide range of services and can
 | E-commerce Business | AWS | Wide range of scalable services and strong support for online applications |
 | Government Agency | Azure | Strong security, compliance, and integration with Microsoft services |
 | Data Analytics Company | GCP | Excellent data analytics, machine learning, and big data services |
+
+## Cloud Service Matching Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
